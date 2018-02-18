@@ -76,3 +76,6 @@ tar xvf my-site.tar
 cd /var/www
 git clone /var/repos/my-site.git
 ```
+
+TODO:
+* make backup.sh more dynamic, using script parameters
